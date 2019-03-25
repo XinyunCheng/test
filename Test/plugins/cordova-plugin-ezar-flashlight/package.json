@@ -1,0 +1,51 @@
+{
+  "_from": "cordova-plugin-ezar-flashlight",
+  "_id": "cordova-plugin-ezar-flashlight@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-HEvsQ+td49D0bPwSld/cRUzrnJy/YlBT/FAFyPT0Cf/KVl7jdb91eGAu+2u6BgiFQ6TgHjOmRQU0FAfM6VLyng==",
+  "_location": "/cordova-plugin-ezar-flashlight",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-ezar-flashlight",
+    "name": "cordova-plugin-ezar-flashlight",
+    "escapedName": "cordova-plugin-ezar-flashlight",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ezar-flashlight/-/cordova-plugin-ezar-flashlight-1.0.0.tgz",
+  "_shasum": "51efe16ee6b3b3d6c8e7f613e9d64018271e0fad",
+  "_spec": "cordova-plugin-ezar-flashlight",
+  "_where": "C:\\Users\\Sylvie\\Test",
+  "author": {
+    "name": "Wayne Parrott",
+    "email": "wayne@ezartech.com",
+    "url": "https://ezartech.com"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-ezar-flashlight",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Control the front and back flashlights on a device",
+  "homepage": "https://ezartech.com",
+  "keywords": [
+    "flashlight",
+    "light",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "license": "modified MIT License, see http://ezartech.com/ezarstartupkit-license",
+  "name": "cordova-plugin-ezar-flashlight",
+  "version": "1.0.0"
+}

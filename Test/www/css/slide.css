@@ -1,0 +1,13 @@
+#button
+{
+	width: 150px;
+	height: 40px;
+	border-radius: 5px;
+	background-color:lightblue ;
+	opacity: 50%;
+}
+
+
+/**
+modifier les propiétés de css pour ajuster les color de backgroud
+ */

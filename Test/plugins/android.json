@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.dom.test"
+    },
+    "cordova-plugin-flashlight": {
+      "PACKAGE_NAME": "com.dom.test"
+    },
+    "cordova-plugin-ezar-flashlight": {
+      "PACKAGE_NAME": "com.dom.test"
+    }
+  },
+  "dependent_plugins": {}
+}
